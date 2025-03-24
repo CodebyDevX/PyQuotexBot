@@ -33,12 +33,13 @@ Leverage advanced strategies like **Compounding**  and **Martingale** to automat
 ### **Compounding Strategy**:
 Monitor the bot's execution of trades for **exponential growth**, continuously compounding profits to enhance your account balance.
 
-![photo_2025-02-06_17-25-48](https://github.com/user-attachments/assets/b65fd4fe-ed69-4860-b950-a9b971b0bf27)
+![Screenshot 2025-03-24 122957](https://github.com/user-attachments/assets/8233a23b-d0a7-4d48-bbbe-6510ef55d3fc)
+
 
 ### **Martingale Strategy**:
 Smart **recovery** and **maximized gains**. Observe the bot applying Martingale to manage losses effectively and boost profits.
 
-![photo_2025-02-06_17-25-51](https://github.com/user-attachments/assets/e42623cc-3b08-4ddc-9617-7ebd8d8aad85)
+![Screenshot 2025-03-24 123524](https://github.com/user-attachments/assets/af6c4550-536e-4b16-8c15-6ab1975fde6c)
 
 ---
 
