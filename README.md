@@ -50,7 +50,8 @@ Smart **recovery** and **maximized gains**. Observe the bot applying Martingale 
 
 Out of 5 trades, the bot delivered **4 wins**! 💪
 
-![Screenshot 2025-03-24 161647](https://github.com/user-attachments/assets/24bb8758-4771-44ed-8f68-d6db28abff48)
+![Screenshot 2025-04-04 211822](https://github.com/user-attachments/assets/67058ec1-bfde-4d9c-9401-a20f1a68f3e5)
+
 
 ---
 
