@@ -77,16 +77,13 @@ We now support mobile version control and monitoring, letting you manage and obs
 ---
 
 
-
-
 ## 🎥 Live Trading Videos
 
 Want proof? See the bot in action with real trades and real results.
 
-👉 [Watch the full video](https://github.com/CodebyDevX/PyQuotexBot/releases/latest/download/FINAL.mp4)
+👉 [Click here to watch the full video](https://youtu.be/TNo1Mkfhm7g)
 
 ---
-
 
 
 ## 🏆 Trading Success Snapshot
