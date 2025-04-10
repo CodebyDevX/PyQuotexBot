@@ -88,6 +88,7 @@ Want proof? See the bot in action with real trades and real results.
 ---
 
 
+
 ## 🏆 Trading Success Snapshot
 
 Out of 5 trades, the bot delivered 4 wins!  
