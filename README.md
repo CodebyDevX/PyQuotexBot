@@ -14,8 +14,6 @@ An advanced, fully automated trading bot for Quotex – fast, precise, and custo
 ✅ **Secure & Reliable** – Optimized for performance and stability.  
 ⚙️ **Built-In Risk Management** – Ensure safe and sustainable trading with configurable controls:
    - `MIN_PAYOUT_PERCENTAGE = 90` – Minimum payout percentage to consider an asset  
-   - `TRADE_TIMEOUT = 10` – Seconds to wait for trade execution  
-   - `MAX_AMOUNT = 0` – Maximum trade amount allowed  
    - `MAX_DAILY_LOSS = 0` – Maximum daily loss limit  
    - `MAX_CONSECUTIVE_LOSSES = 0` – Max consecutive losses before pausing  
    - `PROFIT_TARGET = 0` – Daily profit target  
