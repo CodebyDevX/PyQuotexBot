@@ -110,7 +110,7 @@ To access the code and begin trading effortlessly, simply reach out via Telegram
 
 ## 💰 Price
 
-The cost for the Quotex Auto Trading Bot is **$59**.  
+The cost for the Quotex Auto Trading Bot is **$69**.  
 **Note:** The price may increase soon!
 
 📩 **Message me on Telegram now** to unlock the full power of automated, intelligent trading!
