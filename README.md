@@ -149,6 +149,7 @@ Keep an eye on your trading performance from your phone — perfect for users on
 | 🧪 Demo or Live Mode                | ✅ Seamless toggle with UI control                                            | ✅ Supported via config flag                                                |
 | 🧾 Trade Summary Table              | ✅ Displayed with full UI insights                                            | ✅ Text-based output after each trade group                                 |
 | 🔄 Back to Settings Anytime         | ✅ Instantly return to update strategy mid-session                            | ❌ Not available                                                            |
+| 🔔 Notification Alerts              | ✅ In-app trade alerts and status notifications                               | ❌ Not available                                                            |
 | 🧠 Smart Win Rate Optimization      | ✅ Real-time trade confidence calculation                                     | ❌ Not available                                                            |
 
 
