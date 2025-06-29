@@ -1,116 +1,193 @@
-# 🚀 Quotex Auto Trading Bot
+# 🚀 Quotex Auto Trading Bot (Pro Edition) | Both UI & Terminal Versions
 
-An advanced, fully automated trading bot for Quotex – fast, precise, and customizable!
-
----
-
-## 🔥 Key Features & ⚙️ Built-In Risk Management
-
-✅ **Demo & Live Trading** – Choose between risk-free demo mode or real-money trading.  
-✅ **Tournament Mode** – Participate in Quotex tournaments with automated precision.  
-✅ **Multiple Trading Strategies** – Use Compounding, Martingale, and more simultaneously.  
-✅ **Customizable Trading Type** – Adapt your strategy for maximum profitability.  
-✅ **24/7 Automated Trading** – Let the bot execute trades with speed and accuracy.  
-✅ **Secure & Reliable** – Optimized for performance and stability.  
-⚙️ **Built-In Risk Management** – Ensure safe and sustainable trading with configurable controls:
-   - `MIN_PAYOUT_PERCENTAGE = 90` – Minimum payout percentage to consider an asset  
-   - `MAX_DAILY_LOSS = 0` – Maximum daily loss limit  
-   - `MAX_CONSECUTIVE_LOSSES = 0` – Max consecutive losses before pausing  
-   - `PROFIT_TARGET = 0` – Daily profit target  
-
-
-## 💡 Why Use Quotex Auto Trading Bot?
-
-Leverage powerful strategies like Compounding and Martingale to automate your trading journey, minimize emotions, and ensure consistent profits.
+A powerful, fully automated trading bot for Quotex — built for traders who demand **speed**, **control**, and **results**. Available in both a modern UI version and a terminal version.
 
 ---
 
-## 📊 Advanced Trading Strategies
+## 🧠 Why Use This Bot?
 
-### 💰 Compounding Strategy
-
-Harness the power of compounded returns for exponential growth.  
-Automatically reinvest profits for aggressive growth in balance.
-
----
-
-### 🔄 Martingale Strategy
-
-Recover losses and multiply profits with the Martingale strategy.  
-Smart risk management and dynamic bet sizing for maximum recovery.
+✅ Fully Automated Trading (24/7)  
+✅ Smart Strategy  
+✅ Built-in Risk & Payout Filters  
+✅ Secure Login & Live Controls  
+✅ Demo & Live Trading Modes  
+✅ Desktop UI + Terminal Options  
 
 ---
 
+## 🖥️ UI Version – Walkthrough
 
-## 🖥 Live Terminal View
+## 🚀 Advanced Smart Strategy Engine (Exclusive to UI Version)
 
-### 💹 Compounding Strategy in Action
+The UI version includes a powerful strategy engine designed for serious traders. It intelligently adapts to market behavior in real time, helping you avoid poor trades and maximize profitability.
 
-Watch how the bot compounds trades in real-time for exponential balance growth.
+Key built-in features:
 
-![Screenshot 2025-04-10 111009](https://github.com/user-attachments/assets/cfedcafe-ba79-41aa-a1b0-0fa2a9f79bdb)
+- 📉 **Market Condition Awareness** – Avoids entering trades during volatile, uncertain, or low-payout periods  
+- 🧠 **Intelligent Trade Filtering** – Skips trades that don’t meet confidence criteria or show signal conflicts  
+- ⛔ **Auto-Stop on Low-Quality Signals** – Pauses the bot when market conditions are unfavorable  
+- 📈 **Enhanced Win Rate Optimization** – Uses real-time data flow to select only statistically strong trade entries
 
-
-### 📉 Martingale Strategy Execution
-
-See how the bot applies the Martingale system smartly to recover from losses and secure profits.
-
-![Screenshot 2025-04-10 111239](https://github.com/user-attachments/assets/a6651573-dee4-449e-9293-b70ada4a6b80)
+> 🧬 These features are exclusive to the UI version and are not available in the terminal variant.
 
 
-## 📱 Mobile Terminal View 
+### 1️⃣ Login Securely
 
-We now support mobile version control and monitoring, letting you manage and observe your trades on the go!
+Clean and minimal login interface. Your credentials are encrypted and never stored insecurely.
 
-<a href="https://github.com/user-attachments/assets/44aa0682-dd41-40a4-86fc-13c027c62e0e" target="_blank">
-  <img src="https://github.com/user-attachments/assets/44aa0682-dd41-40a4-86fc-13c027c62e0e" alt="Mobile View 1" width="200" style="margin-right: 10px;"/>
+![Screenshot 2025-06-25 112223](https://github.com/user-attachments/assets/00491bee-ff33-42b6-9711-9b468c378e8f)
+
+
+---
+
+### 2️⃣ Configure Your Strategy
+
+Before running the bot, you can customize your trading setup to match your goals, strategy, and risk profile. The UI offers a clean, user-friendly panel to configure the following parameters:
+
+- ⏱️ **Timeframe** – Select your preferred candle interval (e.g., 1 min, 5 min, 15 min)  
+- 💸 **Minimum Payout Percentage** – Trade only when asset payouts meet or exceed your defined threshold (e.g., ≥ 90%)  
+- 🛑 **Stop Loss & Profit Target** – Automatically pause trading upon reaching your daily loss limit or profit target  
+- 🕯️ **Candle & History Periods** – Define how much historical market data is used for each trade decision  
+- 🧠 **Strategy Type** – Choose between **Compounding**, **Martingale**, or a **Custom Strategy**  
+  > The **Advanced Smart Strategy Engine** adapts to your selection, applying real-time filtering and signal validation for maximum precision  
+- 🔢 **Strategy Steps & Amounts** – Set your entry amount, number of steps, and multiplier logic for progression  
+- 🔁 **Demo or Live Mode** – Seamlessly toggle between simulation mode and real-money trading
+
+---
+
+![Screenshot 2025-06-25 112340](https://github.com/user-attachments/assets/5ad3d572-a558-4518-954b-c065e3364119)
+
+---
+
+### 3️⃣ Launch the Trading Dashboard
+
+The live dashboard gives you:
+- Real-time trade updates (Win/Loss, P/L)
+- Trade direction, asset
+- Bot status, strategy type & trading logs
+- One-click Start/Stop functionality
+
+---
+
+![Screenshot 2025-05-28 131221](https://github.com/user-attachments/assets/cf64087e-9422-4d6e-961a-c9914abacb4b)
+
+---
+
+## 📊 Terminal View
+
+For users who prefer simplicity, the **Terminal Version** of the Quotex Auto Bot is a lightweight option that runs directly via your console.
+
+While it delivers efficient execution and basic automation, it lacks the advanced protections and adaptive logic built into the **UI version**.
+
+The **UI version is significantly more advanced**, offering features like:
+- Market condition awareness
+- Intelligent trade filtering
+- Auto-stop on low-quality signals
+- Better win-rate through real-time analysis and data handling
+
+If your priority is **maximum accuracy, safety, and profitability**, the **UI version is strongly recommended**.
+
+
+---
+
+### 🧠 Terminal Trading Interface
+
+The terminal version supports:
+
+- ✅ **Compounding or Martingale Strategy**
+- ✅ **Custom steps and investment amounts**
+- ✅ **Live balance and trade tracking**
+- ✅ **Profit Target Control** – Automatically stops when your daily target is hit  
+- ✅ **Stop Loss Protection** – Automatically halts if your daily loss exceeds the defined limit  
+- ✅ **Minimum Asset Payout Filter** – Trades only assets with a payout above a defined threshold  
+- ✅ **Smart trade execution** based on market direction and configured risk strategy
+
+🖥️ Here's a snapshot of the bot running in the terminal:
+
+![Screenshot 2025-06-29 132823](https://github.com/user-attachments/assets/a3293d47-e53b-47d4-9f99-baea752e549c)
+
+
+---
+
+### 📋 Trade Summary Snapshot (4 Wins, 1 Loss)
+
+After execution, the bot presents trades in a well-structured table:
+
+
+![Screenshot 2025-06-29 122608](https://github.com/user-attachments/assets/c463e063-c8e4-4b80-81a8-f1c7a96b9394)
+
+
+## 📱 Mobile Monitoring Support
+
+Keep an eye on your trading performance from your phone — perfect for users on the go.
+
+<a href="https://github.com/user-attachments/assets/8add4083-722c-4fc8-b57a-fc0137602649" target="_blank">
+  <img src="https://github.com/user-attachments/assets/b8eaa7ad-d500-489a-b40c-b0db1728408c" alt="Mobile View 1" width="200" style="margin-right: 10px;"/>
 </a>
-<a href="https://github.com/user-attachments/assets/1d8e9874-761a-4f47-96b4-fa40298405bb" target="_blank">
-  <img src="https://github.com/user-attachments/assets/1d8e9874-761a-4f47-96b4-fa40298405bb" alt="Mobile View 2" width="200" style="margin-right: 10px;"/>
+<a href="https://github.com/user-attachments/assets/0a0741c2-df2a-4df0-8b01-e0b01dee5ad6" target="_blank">
+  <img src="https://github.com/user-attachments/assets/de99faab-933b-4cf0-838c-e8af5bf14a18" alt="Mobile View 2" width="200" style="margin-right: 10px;"/>
 </a>
-<a href="https://github.com/user-attachments/assets/f1bc748f-7bff-465e-a2a0-851b8b83d243" target="_blank">
-  <img src="https://github.com/user-attachments/assets/f1bc748f-7bff-465e-a2a0-851b8b83d243" alt="Mobile View 3" width="200"/>
+<a href="https://github.com/user-attachments/assets/d2dbec79-e2ed-4ea5-ad48-199e6f9cdb32" target="_blank">
+  <img src="https://github.com/user-attachments/assets/c068c362-dc81-4025-9654-3e6a43b9aa05" alt="Mobile View 3" width="200"/>
 </a>
 
+
+## 🧩 Key Features Comparison
+
+| Feature                             | UI Version ✅                                                                 | Terminal Version 💻                                                         |
+|-------------------------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| ⚙️ Auto Trading Engine              | ✅ Full automation with live dashboard                                        | ✅ Trading via terminal                                                     |
+| 📈 Strategy Types Supported         | ✅ Compounding, Martingale, Custom                                            | ✅ Compounding, Martingale                                                  |
+| 🧠 Advanced Strategy Engine         | ✅ Market-aware with trade filtering, volatility control & signal validation | ❌ Not available                                                            |
+| 📊 Dashboard UI                     | ✅ Interactive and real-time visual feedback                                  | ❌ Not included                                                             |
+| 🛑 Auto-Stop on Market Conditions   | ✅ Pauses during low payout / high volatility                                 | ❌ Manual stop only                                                         |
+| 🔁 One-click Start/Stop             | ✅ Button control in UI                                                       | ✅ Manual (keyboard)                                                        |
+| 🔐 Secure Login Panel               | ✅ Encrypted credentials & clean UI login                                     | ❌ Manual session login                                                     |
+| 💸 Risk & Payout Filters            | ✅ Fully configurable                                                         | ✅ Supported (manual config)                                                |
+| 🧮 Strategy Steps & Amounts         | ✅ Fully editable per strategy                                                | ✅ Editable in config                                                       |
+| ⏱️ Timeframe Selection              | ✅ 1min / 5min / 15min                                                         | ✅ 1min / 5min / 15min                                                      |
+| 🧪 Demo or Live Mode                | ✅ Seamless toggle with UI control                                            | ✅ Supported via config flag                                                |
+| 🧾 Trade Summary Table              | ✅ Displayed with full UI insights                                            | ✅ Text-based output after each trade group                                 |
+| 🔄 Back to Settings Anytime         | ✅ Instantly return to update strategy mid-session                            | ❌ Not available                                                            |
+| 🧠 Smart Win Rate Optimization      | ✅ Real-time trade confidence calculation                                     | ❌ Not available                                                            |
+
+
+
+## 💵 Pricing
+
+Choose the version that fits your trading style and needs:
+
+| Version             | Description                                                                 | Price |
+|---------------------|-----------------------------------------------------------------------------|-------|
+| **UI Version**   | 🌟 Full-featured with visual dashboard, secure login, advanced smart strategy engine, real-time market protection, and higher win-rate optimization. Ideal for serious traders seeking precision, safety, and performance. | **$150**  |
+| **Terminal Version**           | 💻 Lightweight command-line version with basic strategy execution, manual configuration, and limited protections.  | **$69**   |
+
+
 ---
 
 
-## 🎥 Live Trading Videos
+## 🎥 Watch It Live
 
-Want proof? See the bot in action with real trades and real results.
+Curious to see the bot in real action before you buy?
 
-👉 [Click here to watch the full video](https://youtu.be/TNo1Mkfhm7g)
+📺 Check out our official YouTube channel for live trading videos, strategy demos, and feature walkthroughs:
 
----
-
-
-## 🏆 Trading Success Snapshot
-
-Out of 5 trades, the bot delivered 4 wins!  
-Check out the performance snapshot:
-
-![Screenshot 2025-04-04 211822](https://github.com/user-attachments/assets/767b62be-0f02-4586-8012-9b78c08c5838)
+👉 [YouTube – PyQuotex Bot Channel](https://youtube.com/@pyquotexbot?si=iG5BqZok0xWmElbj)
 
 ---
 
-## 🚀 Ready to Scale Your Trading?
 
-Say goodbye to emotional and manual trading!  
-Let the bot work 24/7 for you—executing smart strategies, managing risks, and growing your balance.
+## 📩 Get Started
 
----
+Ready to automate your trading with precision?
 
-## 🔗 Get Started Today!
+💬 Reach out to us directly on Telegram for purchase, support, or questions:
 
-To access the code and begin trading effortlessly, simply reach out via Telegram:
+👉 [Message on Telegram](https://t.me/Githubsupport01)
 
-👉 [Click here to contact on Telegram](https://t.me/Githubsupport01)
 
----
 
-## 💰 Price
+## ⚠️ Disclaimer
 
-The cost for the Quotex Auto Trading Bot is **$69**.  
-**Note:** The price may increase soon!
+This bot is for educational and research purposes only. Trading carries risk. Use demo mode before going live.
 
-📩 **Message me on Telegram now** to unlock the full power of automated, intelligent trading!
